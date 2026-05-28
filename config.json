@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "smseender",
+        "uuid": 36061410,
+        "checksum": "l8ppsp"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
